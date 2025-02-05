@@ -93,4 +93,3 @@ Month 3: Publish the chatbot on GitHub and share in Discussions.
 - **Narrative Flow:** Uses “Chart Your Path” and “Shape the Future” to inspire action.  
 - **Interactive Elements:** Reflection questions, case study, and roadmap activity.  
 - **Practical Guide:** Step-by-step plan for post-course success.  
-- 
