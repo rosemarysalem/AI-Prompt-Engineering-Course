@@ -13,9 +13,8 @@
 AI can write code, debug errors, or explain concepts. Think of it as a 24/7 tech buddy!  
 
 **Example:**  
-- **Prompt:**  
+- **Prompt:**
 Write a Python function to calculate the Fibonacci sequence up to n. Add comments.
-Copy
 - **AI Output:**  
 ```python  
 def fibonacci(n):  
@@ -25,14 +24,13 @@ def fibonacci(n):
     for i in range(2, n):  
         sequence.append(sequence[i-1] + sequence[i-2])  
     # Return the sequence up to n  
-    return sequence[:n]  
+    return sequence[:n]
 Activity:
 Ask AI to debug this code (share your result in Discussions):
-Python
-Copy
 def add(a, b):  
     return a + b  
-print(add(5))  # What’s missing here?  
+print(add(5))  # What’s missing here?
+
 4.3 Technique #2: AI-Generated Creative Writing
 Key Idea:
 AI loves brainstorming! Get story ideas, poems, or even full drafts.
